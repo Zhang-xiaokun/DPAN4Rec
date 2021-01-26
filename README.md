@@ -9,7 +9,7 @@ at Neurocomputing2021
 
 Please cite our paper if you use our codes. Thanks!
 
-Author: Xiaokun Zhang (kun@mail.dlut.edu.cn / 1210940418@qq.com)
+Author: Xiaokun Zhang (kun@mail.dlut.edu.cn)
 
 Datasets
 YOOCHOOSE: http://2015.recsyschallenge.com/challenge.html
