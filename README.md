@@ -7,9 +7,7 @@ Xiaokun Zhang, Hongfei Lin, Liang Yang, Bo Xu, Yufeng Diao, Lu Ren
 
 at _Neurocomputing, 2021_
 
-paper link:
-
-https://doi.org/10.1016/j.neucom.2021.01.092
+paper link: https://doi.org/10.1016/j.neucom.2021.01.092
 
 Please cite our paper if you use our codes. Thanks!
 
