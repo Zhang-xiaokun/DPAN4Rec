@@ -5,7 +5,7 @@ _Dual Part-pooling Attentive Networks for Session-based Recommendation._  Xiaoku
 
 at _Neurocomputing 440 (2021): 89-100._
 
-paper link: https://doi.org/10.1016/j.neucom.2021.01.092
+Paper link: https://doi.org/10.1016/j.neucom.2021.01.092
 
 Please cite our paper if you use our codes. Thanks!
 
