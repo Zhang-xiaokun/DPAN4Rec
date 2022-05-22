@@ -21,3 +21,6 @@ In case that you have any difficulty about the implementation or you are interes
 
 Author: Xiaokun Zhang (kun@mail.dlut.edu.cn / ZhangXiaokun1993@foxmail.com)
 
+Also, welcome to visit my academic homepage:
+
+https://zhang-xiaokun.github.io/
